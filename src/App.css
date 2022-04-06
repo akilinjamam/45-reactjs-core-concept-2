@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/* ------------------------------------------------------ */
+
+.style{
+  border: 2px solid blue;
+  width: 50%;
+  border-radius: 20px;
+  margin: auto;
+  margin-top : 20px;
+  margin-bottom : 20px;
+}
